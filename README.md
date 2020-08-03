@@ -9,9 +9,12 @@ JavaScript has gained so much popularity recently and many MV* based JS framewor
 ```
 
 Those MV* are important way to **separate concerns** and the most knowledge patterns are:
-- MVC *(Model-View-Controller)*
-- MVP *(Model-View-Presenter)*
-- MVVM *(Model-View-ViewModel)*
+
+![MVC](https://raw.githubusercontent.com/vitorCamargo/architecture-patterns/master/images/mvc.png)
+
+![MVP](https://raw.githubusercontent.com/vitorCamargo/architecture-patterns/master/images/mvp.png)
+
+![MVVM](https://raw.githubusercontent.com/vitorCamargo/architecture-patterns/master/images/mvvm.png)
 
 Well, you need to understand some of those concepts right? OK!
 - Models manage the data for an application.
@@ -67,13 +70,13 @@ I personnaly like to use the native way, for that, you should have a folder to p
 
 ### Let's see what companies are doing
 
-- National Geographic
-- iFood
-- Americanas
-- Submarino
-- Kanui
-- Saraiva
-- Wix
+- [National Geographic](./national-geographic)
+- [iFood](./ifood)
+- [Americanas](./americanas)
+- [Submarino](./submarino)
+- [Kanui](./kanui)
+- [Saraiva](./saraiva)
+- [Wix](./wix)
 - [Nubank](https://nubank.com.br/en/)
 - [SandBox](https://codesandbox.io/s/21vrnxyy3j?file=/src/TodoApp.js)
 - [Cruunchify](https://cruuunchify.com/)
