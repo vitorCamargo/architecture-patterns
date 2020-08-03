@@ -1,0 +1,5 @@
+### Submarino
+
+I think you know that Subimarino and Americanas are part of the same group, and if you got a look into their site they are very look alike, that's because the code itself is outside the application, if you see the Americanas folder you will see the layout of the page, here too (I don't put the folders, because is the same), What happens is like, both site request the content from a different service, and both put their own style above the requested structure. Probably is a very good way to componentize all the functions and layout, so the site that is using the service can personalize the better way.
+
+Besides, in Submarino, unlike Americanas, request a pack of styles, I am not sure if the deploy of Americanas is better to hide these files, or because Americanas is the main service and all the other kids get the structure from him and change it.
